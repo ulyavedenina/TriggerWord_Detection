@@ -1,6 +1,6 @@
-# Trigger Word Detection Project
+# Trigger Word Detection
 
-This project is based on the assignment **'Trigger Word Detection'** from the **Sequence Models** course, which is part of the **Deep Learning Specialization**.
+This code is based on the assignment **'Trigger Word Detection'** from the **Sequence Models** course, which is part of the **Deep Learning Specialization**.
 
 ## Overview
 
